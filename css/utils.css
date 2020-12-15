@@ -1,0 +1,21 @@
+.margin1{
+   max-width: 80vw;
+}
+.margin2{
+    max-width: 100vw;
+}
+.marginauto{
+    margin:auto;
+}
+.my2{
+    margin-top:12px;
+    margin-bottom:12px;
+}
+.formbox input,textarea{
+    width: 30vw;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 1px 5px;
+    margin: 2px
+    
+}

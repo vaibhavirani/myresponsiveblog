@@ -1,0 +1,41 @@
+@media screen and (max-width:1200px){
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 23px;
+    }
+    .left{
+         text-align: center;
+         flex-direction: column;
+    }
+    .contentright{
+        display:none;
+    }
+    .article{
+        flex-direction: column;
+    }
+    .article{
+        text-align: center;
+    }
+    .year{
+        display: flex;
+        top: 20px;
+        left:60vw;
+        font-size: 12px;
+    }
+    .year div{
+        margin:0px;
+    }
+    .form input{
+        width:50%;
+    }
+    .formbox input,textarea{
+        width: 66vw;
+        
+    }
+    .row{
+        flex-direction:column;
+    }
+    .image-post{
+        height:auto;
+    }
+}
